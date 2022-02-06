@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+. I’m currently Data Science bootcamp participant @Kodluyoruz
+. I'm currently working on Data Science, Machine Learning, Reinforcement Learning.
+
+
+
+
 <!--
 **Menesbas/Menesbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
