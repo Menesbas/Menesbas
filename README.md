@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 . I’m currently Data Science bootcamp participant @Kodluyoruz
+
 . I'm currently working on Data Science, Machine Learning, Reinforcement Learning.
 
 
