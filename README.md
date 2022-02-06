@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-. I’m currently Data Science bootcamp participant @[(https://github.com/Kodluyoruz)].
+. I’m currently Data Science bootcamp participant [@](https://github.com/Kodluyoruz).
 
 . I'm currently working on Data Science, Machine Learning, Reinforcement Learning.
 
