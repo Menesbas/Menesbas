@@ -4,7 +4,7 @@
 
 . I'm currently working on Data Science, Machine Learning, Reinforcement Learning.
 
-. You can reach me out -> menesbas@outlook.com
+. You can contact with me from -> menesbas@outlook.com
 
 
 <!--
