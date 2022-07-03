@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-. I’m currently Data Science bootcamp participant @[Kodluyoruz](https://github.com/Kodluyoruz).
-
 . I'm currently working on Data Science, Machine Learning, Reinforcement Learning.
 
 . You can contact with me from -> menesbas@outlook.com
